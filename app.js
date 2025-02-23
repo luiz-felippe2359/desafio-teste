@@ -1,4 +1,4 @@
-alert('Bem vindo ao site!');
+alert('ola, bem vindo ao nosso site!');
 alert('Ola meu nome e fatasma e hoje sou seu assistente');
 nome = prompt('qual e o seu nome');
 alert(`Bem vindo ${nome}`);
